@@ -12,4 +12,4 @@ A GUI developed using Psychtoolbox in MATLAB to collect responses on the Edinbur
 
 # Authors
 
-* Maartyna Raskowska
+* Martyna Raskowska
