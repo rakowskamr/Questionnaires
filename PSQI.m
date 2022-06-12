@@ -1,5 +1,5 @@
 %% PSQI - Pittsburgh Sleep Quality Index
-% used to measure sleep quality during the past month
+% used to measure sleep quality and quantity during the past month
 
 % Clear the workspace and the screen
 sca;
