@@ -9,7 +9,7 @@ clc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % My settings and prompts
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-outputFolder = 'ourDirectory/Questionnaires/Results';
+outputFolder = 'yourDirectory/Questionnaires/Results';
 
 respMatrix      = nan(1,1);
 waitSecs = 1;
